@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Random Image</string>
+    <string name="category_choose">Choose your category</string>
+    <string name="category_kitten">kitten</string>
+    <string name="category_bunny">Bunny</string>
+    <string name="category_bird">Bird</string>
+    <string name="category_sky">Sky</string>
+    <string name="category_sea">Sea</string>
+    <string name="height">height</string>
+    <string name="return_main">return to mainscreen</string>
+    <string name="width">width</string>
+</resources>
